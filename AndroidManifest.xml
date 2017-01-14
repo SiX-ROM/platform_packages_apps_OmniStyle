@@ -73,6 +73,26 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
+            android:name=".sixrom"
+            android:label="S.i.X by R3Ds" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".enhanced"
+            android:label="Enhanced by R3Ds" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
             android:name=".nature"
             android:label="Nature" >
             <intent-filter>
@@ -115,16 +135,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".omni_syed"
             android:label="Syed" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name=".enhanced"
-            android:label="Enhanced by R3Ds" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

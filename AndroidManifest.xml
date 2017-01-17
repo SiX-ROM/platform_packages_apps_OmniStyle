@@ -71,7 +71,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
+		
         <activity
             android:name=".sixrom"
             android:label="S.i.X Collection" >
@@ -82,9 +82,29 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 
+		<activity
+            android:name=".sixrandom"
+            android:label="S.i.X (random)" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".andy"
+            android:label="Andy" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
         <activity
             android:name=".enhanced"
-            android:label="Enhanced by R3Ds" >
+            android:label="Enhanced" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -92,9 +112,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 
-       <activity
-            android:name=".sixrandom"
-            android:label="S.i.X (random)" >
+		<activity
+            android:name=".polyenhanced"
+            android:label="Enhanced Poly" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -104,7 +124,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 		<activity
             android:name=".underwater"
-            android:label="Underwater by R3Ds" >
+            android:label="Underwater" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -122,19 +142,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".poly"
-            android:label="Poly" >
+		<activity
+            android:name=".naturerandom"
+            android:label="Nature (random)" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
+		
         <activity
-            android:name=".naturerandom"
-            android:label="Nature (random)" >
+            android:name=".poly"
+            android:label="Poly" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

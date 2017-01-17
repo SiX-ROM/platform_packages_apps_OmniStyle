@@ -20,6 +20,7 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
+    <hour_header hour="4" image="poly_dawn" />
     <hour_header hour="6" image="poly_sunrise" />
     <hour_header hour="9" image="poly_morning" />
     <hour_header hour="11" image="poly_noon" />

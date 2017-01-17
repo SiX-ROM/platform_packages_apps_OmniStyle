@@ -21,11 +21,11 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <random_header image="sixrom01" />
-    <random_header image="sixrom09" />
-    <random_header image="sixrom13" />
-    <random_header image="sixrom15" />
-    <random_header image="sixrom19" />
+    <random_header image="sixrom08" />
+    <random_header image="sixrom05" />
+    <random_header image="sixrom02" />
+    <random_header image="sixrom06" />
     <random_header image="sixrom04" />
     <random_header image="sixrom03" />
-    <random_header image="sixrom20" />
+    <random_header image="sixrom07" />
 </daylight_headers>

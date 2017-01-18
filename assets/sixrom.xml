@@ -43,4 +43,5 @@ day_header entries have a higher priority then hour entries -->
     <hour_header hour="21" image="sixrom21" />
     <hour_header hour="22" image="sixrom22" />
     <hour_header hour="23" image="sixrom23" />
+    <hour_header hour="0" image="sixrom24" />
 </daylight_headers>

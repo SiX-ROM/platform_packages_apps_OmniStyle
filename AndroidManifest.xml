@@ -113,16 +113,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
 		<activity
-            android:name=".polyenhanced"
-            android:label="Enhanced Poly" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-		<activity
             android:name=".underwater"
             android:label="Underwater" >
             <intent-filter>
@@ -154,7 +144,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 		
         <activity
             android:name=".poly"
-            android:label="Poly" >
+            android:label="Poly Enhanced" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

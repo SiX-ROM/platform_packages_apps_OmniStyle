@@ -20,12 +20,28 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
+    <random_header image="sixrom17" />
     <random_header image="sixrom01" />
     <random_header image="sixrom08" />
+    <random_header image="sixrom23" />
     <random_header image="sixrom05" />
+    <random_header image="sixrom18" />
     <random_header image="sixrom02" />
+    <random_header image="sixrom20" />
     <random_header image="sixrom06" />
-    <random_header image="sixrom04" />
-    <random_header image="sixrom03" />
+    <random_header image="sixrom16" />
+    <random_header image="sixrom21" />
     <random_header image="sixrom07" />
+    <random_header image="sixrom19" />
+    <random_header image="sixrom09" />
+    <random_header image="sixrom14" />
+    <random_header image="sixrom10" />
+    <random_header image="sixrom13" />
+    <random_header image="sixrom22" />
+    <random_header image="sixrom15" />
+    <random_header image="sixrom04" />
+    <random_header image="sixrom12" />
+    <random_header image="sixrom03" />
+    <random_header image="sixrom21" />
+    <random_header image="sixrom11" />
 </daylight_headers>

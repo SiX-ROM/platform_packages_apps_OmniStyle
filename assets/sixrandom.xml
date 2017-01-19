@@ -34,6 +34,7 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="sixrom07" />
     <random_header image="sixrom19" />
     <random_header image="sixrom09" />
+	<random_header image="sixrom25" />
     <random_header image="sixrom14" />
     <random_header image="sixrom10" />
     <random_header image="sixrom13" />

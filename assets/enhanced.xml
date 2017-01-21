@@ -27,4 +27,5 @@ day_header entries have a higher priority then hour entries -->
     <hour_header hour="13" image="nature05" />
     <hour_header hour="17" image="nature24" />
     <hour_header hour="21" image="nature11" />
+    <hour_header hour="21" image="nature26" />
 </daylight_headers>

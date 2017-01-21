@@ -20,10 +20,11 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
+    <hour_header hour="3" image="andy_dawn" />
     <hour_header hour="6" image="andy_sunrise" />
     <hour_header hour="9" image="andy_morning" />
     <hour_header hour="11" image="andy_noon" />
     <hour_header hour="13" image="andy_afternoon" />
-    <hour_header hour="19" image="andy_sunset" />
+    <hour_header hour="17" image="andy_sunset" />
     <hour_header hour="21" image="andy_night" />
 </daylight_headers>

@@ -21,25 +21,25 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <hour_header hour="1" image="nature28" />
-    <hour_header hour="2" image="nature22" />
-    <hour_header hour="3" image="nature20" />
-    <hour_header hour="4" image="nature04" />
+    <hour_header hour="2" image="nature35" />
+    <hour_header hour="3" image="nature36" />
+    <hour_header hour="4" image="nature30" />
     <hour_header hour="5" image="nature16" />
-    <hour_header hour="6" image="nature13" />
-    <hour_header hour="7" image="nature14" />
-    <hour_header hour="8" image="nature01" />
-    <hour_header hour="9" image="nature02" />
-    <hour_header hour="10" image="nature06" />
-    <hour_header hour="11" image="nature21" />
-    <hour_header hour="12" image="nature05" />
-    <hour_header hour="13" image="nature07" />
-    <hour_header hour="14" image="nature18" />
-    <hour_header hour="16" image="nature17" />
-    <hour_header hour="17" image="nature05" />
-    <hour_header hour="18" image="nature12" />
-    <hour_header hour="19" image="nature15" />
-    <hour_header hour="20" image="nature24" />
-    <hour_header hour="21" image="nature15" />
-    <hour_header hour="22" image="nature03" />
-	<hour_header hour="23" image="nature26" />
+    <hour_header hour="6" image="nature31" />
+    <hour_header hour="7" image="nature13" />
+    <hour_header hour="8" image="nature14" />
+    <hour_header hour="9" image="nature37" />
+    <hour_header hour="10" image="nature33" />
+    <hour_header hour="11" image="nature07" />
+    <hour_header hour="12" image="nature04" />
+    <hour_header hour="13" image="nature39" />
+    <hour_header hour="14" image="nature29" />
+    <hour_header hour="16" image="nature27" />
+    <hour_header hour="17" image="nature12" />
+    <hour_header hour="18" image="nature23" />
+    <hour_header hour="19" image="nature24" />
+    <hour_header hour="20" image="nature03" />
+    <hour_header hour="21" image="nature26" />
+    <hour_header hour="22" image="nature30" />
+	<hour_header hour="23" image="nature11" />
 </daylight_headers>

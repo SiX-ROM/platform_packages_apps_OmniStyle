@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <change_interval minutes="10" />
+    <list_header image="nature03" />
+    <list_header image="nature16" />
+    <list_header image="nature17" />
+	<list_header image="nature36" />
+    <list_header image="nature37" />
+    <list_header image="nature38" />
+    <list_header image="nature39" />
+    <list_header image="nature40" />
+    <list_header image="nature18" />
+    <list_header image="nature19" />
+    <list_header image="nature20" />
+    <list_header image="nature21" />
+	<list_header image="nature04" />
+	<list_header image="nature05" />
+	<list_header image="nature06" />
+	<list_header image="nature26" />
+	<list_header image="nature27" />
+	<list_header image="nature28" />
+	<list_header image="nature29" />
+    <list_header image="nature30" />
+    <list_header image="nature07" />
+    <list_header image="nature08" />
+    <list_header image="nature09" />
+	<list_header image="nature10" />
+    <list_header image="nature11" />
+    <list_header image="nature12" />
+	<list_header image="nature31" />
+    <list_header image="nature32" />
+	<list_header image="nature33" />
+	<list_header image="nature34" />
+	<list_header image="nature35" />
+	<list_header image="nature13" />
+    <list_header image="nature14" />
+    <list_header image="nature15" />
+    <list_header image="nature22" />
+    <list_header image="nature23" />
+    <list_header image="nature24" />
+    <list_header image="nature25" />
+</daylight_headers>

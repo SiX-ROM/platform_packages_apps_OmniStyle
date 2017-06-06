@@ -89,6 +89,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
 		<activity
+            android:name=".naturelist"
+            android:label="Nature (sequential)" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
             android:name=".naturerandom"
             android:label="Nature (random)" >
             <intent-filter>
@@ -109,18 +119,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".wavvy"
-            android:label="Wavvy" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name=".omni_syed"
-            android:label="Syed" >
+            android:name=".screwd"
+            android:label="Screwd" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
